@@ -6,7 +6,7 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["Doosy.API.csproj", "Doosy.API/"]
+COPY ["Doosy.API/Doosy.API.csproj", "Doosy.API/"]
 COPY ["Doosy.Domain/Doosy.Domain.csproj", "Doosy.Domain/"]
 COPY ["Doosy.Framework.Domain/Doosy.Framework.Domain.csproj", "Doosy.Framework.Domain/"]
 COPY ["Doosy.Infrastructure/Doosy.Infrastructure.csproj", "Doosy.Infrastructure/"]
