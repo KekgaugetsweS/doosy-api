@@ -49,7 +49,7 @@ jobs:
               #docker kill doosyapiii;
               #docker rm doosyapiii;
               docker pull ${{ env.REPO }}:${{ env.VERSION }}
-              docker create --name ${{ env.REPO }}_${{ env.VERSION }}  -p 5007:80 ${{ env.REPO }}:${{ env.VERSION }}
-              docker start ${{ env.REPO }}_${{ env.VERSION }}
+              docker create --name ${{ env.VERSION }}  -p 5007:80 ${{ env.REPO }}:${{ env.VERSION }}
+              docker start ${{ env.VERSION }}
             #fi
             docker ps -a
