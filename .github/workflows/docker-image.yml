@@ -1,0 +1,46 @@
+name: Release to Docker Hub
+
+on:
+  workflow_dispatch:
+    
+env:
+   IMAGE_NAME: doosy_api
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    
+    - name: Login to Docker hub
+      uses: docker/login-action@v1
+      with:
+        username: ${{ secrets.DOCKER_HUB_USERNAME }}
+        password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
+    
+    - name: Checkout code
+      uses: actions/checkout@v2
+    
+    - name: Build and push Docker image
+      id:   docker_build
+      uses: docker/build-push-action@v2
+      with:
+        push: true
+        tags:  ${{ secrets.DOCKER_HUB_USERNAME }}/doosyapi:latest
+        file: Doosy.API/Dockerfile
+    - name: Image digest
+      run: echo ${{ steps.docker_build.outputs.digest }}
+    
+    - name: testing doosy-deploy ssh connection
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST}}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        port: ${{ secrets.PORT }}
+        script: |
+          #if [  "$(docker ps  -a -f status=running  -f  name=doosy_api)" ]; then
+            #docker kill doosy_api;
+            #docker rm doosy_api;
+            docker create --name doosy_api  -p 5001:80 kekgaugetswe/doosy_api:latest
+            docker start doosy_api
+          #fi
+          docker ps -a
