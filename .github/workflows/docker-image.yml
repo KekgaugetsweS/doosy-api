@@ -24,7 +24,7 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags:  ${{ secrets.DOCKER_HUB_USERNAME }}/doosyapi:latest
+        tags:  ${{ secrets.DOCKER_HUB_USERNAME }}/doosy_api:latest
         file: Doosy.API/Dockerfile
     - name: Image digest
       run: echo ${{ steps.docker_build.outputs.digest }}
@@ -40,6 +40,7 @@ jobs:
           #if [  "$(docker ps  -a -f status=running  -f  name=doosy_api)" ]; then
             #docker kill doosy_api;
             #docker rm doosy_api;
+            docker pull kekgaugetswe/doosy_api
             docker create --name doosy_api  -p 5001:80 kekgaugetswe/doosy_api:latest
             docker start doosy_api
           #fi
