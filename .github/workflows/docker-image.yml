@@ -40,7 +40,7 @@ jobs:
           #if [  "$(docker ps  -a -f status=running  -f  name=doosy_api)" ]; then
             #docker kill doosy_api;
             #docker rm doosy_api;
-            docker create --name doosy_api  -p 5001:80 kekgaugetswe/doosy_api:latest
-            docker start doosy_api
+            docker create --name doosy_api  -p 5001:80 kekgaugetswe/doosy_api:latest;
+            docker start doosy_api;
           #fi
-          docker ps -a
+          docker ps -a;
