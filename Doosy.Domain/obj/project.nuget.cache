@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "frW/gC9lHuBHNTBd1XioE4ObYGyi6eiU6D96vFshwUe8jsMRpf7WzhuZ31k6joIXdx5S7j5yC8gPv0+3XGDdUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kekgaugetswe\\Documents\\Doosy_Projects\\github-actions\\tem\\doosy-api-template\\doosy-api\\Doosy.Domain\\Doosy.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

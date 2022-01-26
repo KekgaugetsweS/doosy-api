@@ -1,0 +1,315 @@
+﻿++Solution 'doosy-api' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:doosy-api.sln
+++Doosy.Domain
+i:{00000000-0000-0000-0000-000000000000}:Doosy.Domain
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\doosy.domain.csproj
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\doosy.domain.csproj
+++Dependencies
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:>344
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:>345
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>684
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:>343
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:>428
+++Constants
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\constants\
+++Entities
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\entities\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\entities\
+++Enum
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\enum\
+++Extensions
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\extensions\
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\extensions\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\extensions\
+++DomainServiceExtension.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\extensions\domainserviceextension.cs
+++Interfaces
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\interfaces\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\
+++Requests
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\requests\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\requests\
+++Responses
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\responses\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\responses\
+++Services
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\services\
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\interfaces\services\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\services\
+++Validators
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\validators\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\validators\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\validators\
+++Analyzers
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:analyzers
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:analyzers
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:analyzers
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:analyzers
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:analyzers
+++Frameworks
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:frameworks
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:frameworks
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:frameworks
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:frameworks
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:frameworks
+++Packages
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:packages
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:packages
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:packages
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:packages
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:packages
+++Projects
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:projects
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:projects
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:projects
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:projects
+++ConnectionStrings.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\constants\connectionstrings.cs
+++EntityNames.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\constants\entitynames.cs
+++Person.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\entities\person.cs
+++EntityStatus.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\enum\entitystatus.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\enums\entitystatus.cs
+++Settings
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\interfaces\settings\
+++Filters
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\requests\filters\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\requests\filters\
+++PersonRequest.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\requests\personrequest.cs
+++PersonListResponse.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\responses\personlistresponse.cs
+++PersonService.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\services\personservice.cs
+++PersonValidator.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\validators\personvalidator.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\microsoft.netcore.app
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\microsoft.netcore.app
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\microsoft.netcore.app
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\microsoft.netcore.app
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\microsoft.netcore.app
+++FluentValidation (10.3.6)
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:>694
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:>695
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:>707
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:>752
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:>722
+++Microsoft.Extensions.Logging.Abstractions (6.0.0)
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:>693
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:>751
+++Doosy.Framework.Domain
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\doosy.framework.domain.csproj
+i:{5692c344-3e6d-45cb-89c8-c38da0faa8f6}:Doosy.Framework.Domain
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\doosy.framework.domain.csproj
+++.DS_Store
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\interfaces\services\.ds_store
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\repositories\.ds_store
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\.ds_store
+++IPersonService.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\interfaces\services\ipersonservice.cs
+++AppSettings.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\interfaces\settings\appsettings.cs
+++PersonFilter.cs
+i:{6c024dad-f478-4777-9208-ad0c3f004c4d}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.domain\requests\filters\personfilter.cs
+++Doosy.Infrastructure
+i:{00000000-0000-0000-0000-000000000000}:Doosy.Infrastructure
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\doosy.infrastructure.csproj
+++DbContexts
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\dbcontexts\
+++InfrastructureServiceExtension.cs
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\extensions\infrastructureserviceextension.cs
+++ExternalServiceProxies
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\externalserviceproxies\
+++Repositories
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\repositories\
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\repositories\
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\repositories\
+++QueryRepository
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\repositories\queryrepository\
+++APIDataContext.cs
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\dbcontexts\apidatacontext.cs
+++PersonQueryRepository.cs
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.infrastructure\repositories\queryrepository\personqueryrepository.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:>704
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:>719
+++Newtonsoft.Json (13.0.1)
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:>705
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:>720
+++NPOI (2.5.5)
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:>706
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:>721
+++Pomelo.EntityFrameworkCore.MySql (6.0.0)
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:>709
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:>725
+++RestSharp (107.0.3)
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:>708
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:>724
+++Doosy.Framework.Infrastructure
+i:{b9c41c48-fcda-45dc-91eb-2a7f9b756fbe}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\doosy.framework.infrastructure.csproj
+i:{5692c344-3e6d-45cb-89c8-c38da0faa8f6}:Doosy.Framework.Infrastructure
+++Doosy.API
+i:{00000000-0000-0000-0000-000000000000}:Doosy.API
+++Connected Services 
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>685
+++Properties
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\properties\
+++wwwroot
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\wwwroot\
+++Controllers
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\controllers\
+++PersonController.cs
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\controllers\personcontroller.cs
+++appsettings.json
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\appsettings.json
+++Dockerfile
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\dockerfile
+++Program.cs
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\program.cs
+++No service dependencies discovered
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>686
+++launchSettings.json
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\properties\launchsettings.json
+++files
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\wwwroot\files\
+++appsettings.Development.json
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\appsettings.development.json
+++.dockerignore
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\.dockerignore
+++Dockerfile.original
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\dockerfile.original
+++Microsoft.AspNetCore.Analyzers
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\microsoft.aspnetcore.app
+++Elasticsearch.Net (7.16.0)
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>785
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.14.0)
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>739
+++NEST (7.16.0)
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>786
+++Serilog (2.10.0)
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>787
+++Serilog.AspNetCore (4.1.0)
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>788
+++Serilog.Extensions.Logging (3.1.0)
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>789
+++Serilog.Sinks.Elasticsearch (8.4.1)
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>790
+++Swashbuckle.AspNetCore (6.2.3)
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:>738
+++Export_434da072-24b1-49cb-b407-e9e7fc942fb3.xlsx
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\wwwroot\files\export_434da072-24b1-49cb-b407-e9e7fc942fb3.xlsx
+++Export_92851857-9941-4d00-b5f9-201fe9a99d12.xlsx
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\wwwroot\files\export_92851857-9941-4d00-b5f9-201fe9a99d12.xlsx
+++Export_b7f40ec7-097f-4376-8f82-817b342958c3.xlsx
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\wwwroot\files\export_b7f40ec7-097f-4376-8f82-817b342958c3.xlsx
+++Export_bace64c9-1551-4155-bf8d-09981dc243fa.xlsx
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\wwwroot\files\export_bace64c9-1551-4155-bf8d-09981dc243fa.xlsx
+++Export_ec513a60-7207-4466-bc86-ed375b9b2fa7.xlsx
+i:{a2326d4d-a2a3-4120-bee9-5ee186acc9cb}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.api\wwwroot\files\export_ec513a60-7207-4466-bc86-ed375b9b2fa7.xlsx
+++Framework
+i:{00000000-0000-0000-0000-000000000000}:Framework
+++Enums
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\enums\
+++Entity.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\entities\entity.cs
+++LookUpBase.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\entities\lookupbase.cs
+++PagedDataExtension.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\extensions\pageddataextension.cs
+++Utils
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\utils\
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\utils\
+++AttachmentRequest.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\requests\attachmentrequest.cs
+++RequestBase.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\requests\requestbase.cs
+++CreationResponse.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\responses\creationresponse.cs
+++ExportResponse.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\responses\exportresponse.cs
+++ListResponse.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\responses\listresponse.cs
+++ObjectResponse.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\responses\objectresponse.cs
+++PagedDataResponce.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\responses\pageddataresponce.cs
+++ResponseBase.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\responses\responsebase.cs
+++ServiceBase.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\services\servicebase.cs
+++IValidators.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\validators\ivalidators.cs
+++ICommandRepository.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\repositories\icommandrepository.cs
+++IQueryRepository.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\repositories\iqueryrepository.cs
+++IExcelExporter.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\utils\iexcelexporter.cs
+++IExporter.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\utils\iexporter.cs
+++IRestClient.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\utils\irestclient.cs
+++ISerializer.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\utils\iserializer.cs
+++IValidator.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\interfaces\validators\ivalidator.cs
+++FilterRequest.cs
+i:{164ddf87-c8db-4624-b804-d4edf8d634c0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.domain\requests\filters\filterrequest.cs
+++CommandRepository.cs
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\repositories\commandrepository.cs
+++QueryRepository.cs
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\repositories\queryrepository.cs
+++ExcelExporter.cs
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\utils\excelexporter.cs
+++RestClientBase.cs
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\utils\restclientbase.cs
+++Serialize.cs
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:c:\users\kekgaugetswe\documents\doosy_projects\github-actions\tem\doosy-api-template\doosy-api\doosy.framework.infrastructure\utils\serialize.cs
+++Microsoft.AspNetCore.Http (2.2.2)
+i:{409c9fd6-a4d9-4ee0-919c-391f0d578fa0}:>723

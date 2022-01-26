@@ -1,0 +1,11 @@
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\bin\Debug\net6.0\Doosy.Framework.Domain.deps.json
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\bin\Debug\net6.0\Doosy.Framework.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\bin\Debug\net6.0\ref\Doosy.Framework.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\bin\Debug\net6.0\Doosy.Framework.Domain.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\obj\Debug\net6.0\Doosy.Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\obj\Debug\net6.0\Doosy.Framework.Domain.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\obj\Debug\net6.0\Doosy.Framework.Domain.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\obj\Debug\net6.0\Doosy.Framework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\obj\Debug\net6.0\Doosy.Framework.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\obj\Debug\net6.0\ref\Doosy.Framework.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Domain\obj\Debug\net6.0\Doosy.Framework.Domain.pdb

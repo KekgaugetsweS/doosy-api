@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Interfaces\ExternalServicesProxies\**" />
+    <Compile Remove="Interfaces\Repositories\**" />
+    <Compile Remove="Interfaces\Validators\**" />
+    <EmbeddedResource Remove="Interfaces\ExternalServicesProxies\**" />
+    <EmbeddedResource Remove="Interfaces\Repositories\**" />
+    <EmbeddedResource Remove="Interfaces\Validators\**" />
+    <None Remove="Interfaces\ExternalServicesProxies\**" />
+    <None Remove="Interfaces\Repositories\**" />
+    <None Remove="Interfaces\Validators\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Interfaces\Settings\" />
+    <Folder Include="Requests\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Enum\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Requests\Filters\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="10.3.6" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Doosy.Framework.Domain\Doosy.Framework.Domain.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\bin\Debug\net6.0\Doosy.Framework.Infrastructure.deps.json
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\bin\Debug\net6.0\Doosy.Framework.Infrastructure.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\bin\Debug\net6.0\ref\Doosy.Framework.Infrastructure.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\bin\Debug\net6.0\Doosy.Framework.Infrastructure.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\bin\Debug\net6.0\Doosy.Framework.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\bin\Debug\net6.0\Doosy.Framework.Domain.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\Doosy.Framework.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\Doosy.Framework.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\Doosy.Framework.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\Doosy.Framework.Infrastructure.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\Doosy.Framework.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\Doosy.Framework.Infrastructure.csproj.CopyComplete
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\Doosy.Framework.Infrastructure.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\ref\Doosy.Framework.Infrastructure.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\github-actions\tem\doosy-api-template\doosy-api\Doosy.Framework.Infrastructure\obj\Debug\net6.0\Doosy.Framework.Infrastructure.pdb

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2326d4d-a2a3-4120-bee9-5ee186acc9cb": {
+      "ProjectGuid": "a2326d4d-a2a3-4120-bee9-5ee186acc9cb",
+      "DisplayName": "Doosy.API",
+      "ColorIndex": 0
+    },
+    "6c024dad-f478-4777-9208-ad0c3f004c4d": {
+      "ProjectGuid": "6c024dad-f478-4777-9208-ad0c3f004c4d",
+      "DisplayName": "Doosy.Domain",
+      "ColorIndex": 1
+    },
+    "164ddf87-c8db-4624-b804-d4edf8d634c0": {
+      "ProjectGuid": "164ddf87-c8db-4624-b804-d4edf8d634c0",
+      "DisplayName": "Doosy.Framework.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

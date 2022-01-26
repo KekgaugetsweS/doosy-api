@@ -1,0 +1,9 @@
+CREATE TABLE `Person` (
+ `Id` varchar(255) NOT NULL,
+  `Firstname` varchar(45) NOT NULL,
+  `Surname` varchar(45) NOT NULL,
+  `Status` varchar(45) NOT NULL,
+  `CreatedBy` varchar(45) NOT NULL,
+  `DateCreated` datetime NOT NULL,
+  `Gender` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
