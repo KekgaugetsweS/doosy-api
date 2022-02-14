@@ -3,6 +3,16 @@ on:
   push:
     tags:
       - 'v*'
+  workflow_dispatch:
+    inputs:
+      environment:
+        type: Choice
+        default: Development
+        options:
+         - Developement
+         - Production
+         - Uat
+        required: true
 
 env:
   DOCKER_USERNAME: kekgaugetswe
